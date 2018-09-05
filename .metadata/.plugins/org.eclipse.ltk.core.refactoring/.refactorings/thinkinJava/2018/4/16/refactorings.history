@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;thinkinJava/src/com/util/desc/des.java&apos; to &apos;desc.java&apos;" description="Rename resource &apos;des.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/util/desc/des.java" name="desc.java" stamp="1524193696323" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+package testaop;
+
+public interface Advice extends InvocationHandler{
+
+}

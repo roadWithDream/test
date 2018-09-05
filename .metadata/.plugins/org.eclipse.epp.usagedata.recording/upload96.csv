@@ -1,0 +1,12 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.2.v200809031518,org.eclipse.wst.ws.service.policy.ui,1511685772015
+started,bundle,org.eclipse.wst.xml.core,1.1.307.v200812040936,org.eclipse.wst.xml.core,1511685772022
+started,bundle,org.tigris.subversion.clientadapter,1.6.12,org.tigris.subversion.clientadapter,1511685772022
+started,bundle,org.tigris.subversion.subclipse.core,1.6.18,org.tigris.subversion.subclipse.core,1511685772022
+started,bundle,org.tigris.subversion.subclipse.mylyn,3.0.0,org.tigris.subversion.subclipse.mylyn,1511685772022
+started,bundle,org.tigris.subversion.subclipse.tools.usage,1.0.1,org.tigris.subversion.subclipse.tools.usage,1511685772022
+started,bundle,org.tigris.subversion.subclipse.ui,1.6.18,org.tigris.subversion.subclipse.ui,1511685772030
+started,bundle,org.eclipse.jdt.apt.core,3.3.101.R34x_v20090114-1205,org.eclipse.jdt.apt.core,1511685772164
+started,bundle,org.eclipse.core.variables,3.2.100.v20080529-1300,org.eclipse.core.variables,1511685772240
+started,bundle,org.eclipse.epp.usagedata.ui,1.0.1.R200809220400,org.eclipse.epp.usagedata.ui,1511685773041
+deactivated,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1511685773399

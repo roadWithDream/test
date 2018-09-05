@@ -1,0 +1,7 @@
+package proxy.helloword;
+
+import java.lang.reflect.InvocationHandler;
+
+public class HelloWorldHandler implements InvocationHandler{
+
+}

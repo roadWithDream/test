@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<root>
+	<gsjc>
+		<resp>
+			<ERR_INFO>成功</ERR_INFO>
+			<insure_serial>00000000000003848278</insure_serial>
+			<zbf>60</zbf>
+			<zxbf>60</zxbf>
+			<zxbe>10000.00</zxbe>
+			<CHANGE_RESULTCODE>9999</CHANGE_RESULTCODE>
+		</resp>
+	</gsjc>
+</root>

@@ -1,0 +1,11 @@
+package testaop;
+
+public class HelloServiceImpl implements HelloService {
+
+	@Override
+	public void sayHelloWorld() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

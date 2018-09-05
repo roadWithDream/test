@@ -1,0 +1,18 @@
+package testioc;
+
+public class Wheel {
+    private String brand;
+    private String specification ;
+	public void setBrand(String brand) {
+		this.brand = brand;
+	}
+	public String getBrand() {
+		return brand;
+	}
+	public void setSpecification(String specification) {
+		this.specification = specification;
+	}
+	public String getSpecification() {
+		return specification;
+	}
+}

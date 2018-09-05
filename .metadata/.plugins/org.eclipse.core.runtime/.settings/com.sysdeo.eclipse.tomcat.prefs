@@ -1,0 +1,5 @@
+#Sun Mar 25 15:40:00 GMT+08:00 2018
+tomcatJRE=1511181018305
+jvmParameters=-server+-Xms1124m+-Xmx1124m+-XX%3APermSize%3D256M+-XX%3AMaxNewSize%3D256m+-XX%3AMaxPermSize%3D256m+-Djava.awt.headless%3Dtrue;
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed

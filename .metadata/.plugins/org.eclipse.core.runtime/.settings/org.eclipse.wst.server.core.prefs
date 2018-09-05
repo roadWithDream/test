@@ -1,0 +1,4 @@
+#Mon Nov 20 20:37:39 GMT+08:00 2017
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="HTTP Preview" name\="HTTP Preview" runtime-type-id\="org.eclipse.wst.server.preview.runtime" timestamp\="0"/>\r\n  <runtime id\="Apache Tomcat v6.0" location\="D\:/tools/apache-tomcat-6.0.36test" name\="Apache Tomcat v6.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="0" vm-install-id\="1511181018305" vm-install-type-id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType"/>\r\n</runtimes>\r\n
+eclipse.preferences.version=1

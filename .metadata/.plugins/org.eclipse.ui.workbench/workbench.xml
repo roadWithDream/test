@@ -1,0 +1,1840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="13" version="2.0">
+<workbenchAdvisor/>
+<window height="728" maximized="true" width="1024" x="374" y="176">
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.ui.views.ResourceNavigator"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.wst.server.ui.ServersView"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="318"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="101" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.hundsun.ares.studio.jres.test.editor.actionSet1" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="com.hundsun.ares.studio.jres.uidesigner.engine.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="com_sysdeo_eclipse_tomcat_actionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="135" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jst.jsf.facesconfig.ui.FacesConfigEditor" itemType="typeToolBarContribution" x="288" y="22"/>
+<coolItem id="org.eclipse.wst.xsd.ui.internal.editor.InternalXSDMultiPageEditor" itemType="typePlaceholder" x="103" y="22"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.spket.dtd.editor.dtdEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="net.sf.jadclipse.JadclipseClassFileEditor" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.html.core.htmlsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.spket.xml.editor.xmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jst.jsp.core.jspsource.source" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.server.ui.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1511180968586" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="2"/>
+<part id="1"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+<part id="64"/>
+<part id="65"/>
+<part id="66"/>
+<part id="67"/>
+<part id="68"/>
+<part id="69"/>
+<part id="70"/>
+<part id="71"/>
+<part id="72"/>
+<part id="73"/>
+<part id="74"/>
+<part id="75"/>
+<part id="76"/>
+<part id="77"/>
+<part id="78"/>
+<part id="79"/>
+<part id="80"/>
+<part id="81"/>
+<part id="82"/>
+<part id="83"/>
+<part id="84"/>
+<part id="85"/>
+<part id="86"/>
+<part id="87"/>
+<part id="88"/>
+<part id="89"/>
+<part id="90"/>
+<part id="91"/>
+<part id="92"/>
+<part id="93"/>
+<part id="94"/>
+<part id="95"/>
+<part id="96"/>
+<part id="97"/>
+<part id="98"/>
+<part id="99"/>
+<part id="100"/>
+<part id="101"/>
+<part id="102"/>
+<part id="103"/>
+<part id="104"/>
+<part id="105"/>
+<part id="106"/>
+<part id="107"/>
+<part id="108"/>
+<part id="109"/>
+<part id="110"/>
+<part id="111"/>
+<part id="112"/>
+<part id="113"/>
+<part id="114"/>
+<part id="115"/>
+<part id="116"/>
+<part id="117"/>
+<part id="118"/>
+<part id="119"/>
+<part id="120"/>
+<part id="121"/>
+<part id="122"/>
+<part id="123"/>
+<part id="124"/>
+<part id="125"/>
+<part id="126"/>
+<part id="127"/>
+<part id="128"/>
+<part id="129"/>
+<part id="130"/>
+<part id="131"/>
+<part id="132"/>
+<part id="133"/>
+<part id="134"/>
+<part id="135"/>
+<part id="136"/>
+<part id="137"/>
+<part id="138"/>
+<part id="139"/>
+<part id="140"/>
+<part id="141"/>
+<part id="142"/>
+<part id="143"/>
+<part id="144"/>
+<part id="145"/>
+<part id="146"/>
+<part id="147"/>
+<part id="148"/>
+<part id="149"/>
+<part id="150"/>
+<part id="151"/>
+<part id="152"/>
+<part id="153"/>
+<part id="154"/>
+<part id="155"/>
+<part id="156"/>
+<part id="157"/>
+<part id="158"/>
+<part id="159"/>
+<part id="160"/>
+<part id="161"/>
+<part id="162"/>
+<part id="163"/>
+<part id="164"/>
+<part id="165"/>
+<part id="166"/>
+<part id="167"/>
+<part id="168"/>
+<part id="169"/>
+<part id="170"/>
+<part id="171"/>
+<part id="172"/>
+<part id="173"/>
+<part id="174"/>
+<part id="175"/>
+<part id="176"/>
+<part id="177"/>
+<part id="178"/>
+<part id="179"/>
+<part id="180"/>
+<part id="181"/>
+<part id="182"/>
+<part id="183"/>
+<part id="184"/>
+<part id="185"/>
+<part id="186"/>
+<part id="187"/>
+<part id="188"/>
+<part id="189"/>
+<part id="190"/>
+<part id="191"/>
+<part id="192"/>
+<part id="193"/>
+<part id="194"/>
+<part id="195"/>
+<part id="196"/>
+<part id="197"/>
+<part id="198"/>
+<part id="199"/>
+<part id="200"/>
+<part id="201"/>
+<part id="202"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestArray.java" partName="TestArray.java" path="D:/Files/study/test/thinkinJava/src/holding/TestArray.java" title="TestArray.java" tooltip="thinkinJava/src/holding/TestArray.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/holding/TestArray.java"/>
+<editorState selectionLength="0" selectionOffset="299"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DESEncryptImpl.java" partName="DESEncryptImpl.java" path="D:/Files/study/test/thinkinJava/src/com/hundsun/lcpt/algorithm/encrypt/DESEncryptImpl.java" title="DESEncryptImpl.java" tooltip="thinkinJava/src/com/hundsun/lcpt/algorithm/encrypt/DESEncryptImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/hundsun/lcpt/algorithm/encrypt/DESEncryptImpl.java"/>
+<editorState selectionLength="3" selectionOffset="188"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DES.java" partName="DES.java" path="D:/Files/study/test/thinkinJava/src/com/hundsun/lcpt/algorithm/DES.java" title="DES.java" tooltip="thinkinJava/src/com/hundsun/lcpt/algorithm/DES.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/hundsun/lcpt/algorithm/DES.java"/>
+<editorState selectionLength="0" selectionOffset="1494"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="D:/Files/study/test/thinkinJava/src/com/hundsun/lcpt/algorithm/Main.java" title="Main.java" tooltip="thinkinJava/src/com/hundsun/lcpt/algorithm/Main.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/hundsun/lcpt/algorithm/Main.java"/>
+<editorState selectionLength="0" selectionOffset="333"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DESEncryptor.java" partName="DESEncryptor.java" path="D:/Files/study/test/thinkinJava/src/com/util/desc/DESEncryptor.java" title="DESEncryptor.java" tooltip="thinkinJava/src/com/util/desc/DESEncryptor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/util/desc/DESEncryptor.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestString.java" partName="TestString.java" path="D:/Files/study/test/thinkinJava/src/TestString.java" title="TestString.java" tooltip="thinkinJava/src/TestString.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/TestString.java"/>
+<editorState selectionLength="0" selectionOffset="284"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Apply.java" partName="Apply.java" path="D:/Files/study/test/thinkinJava/src/Apply.java" title="Apply.java" tooltip="thinkinJava/src/Apply.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/Apply.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DigitObserver.java" partName="DigitObserver.java" path="D:/Files/study/test/designpattern/src/Observer/A2/DigitObserver.java" title="DigitObserver.java" tooltip="designpattern/src/Observer/A2/DigitObserver.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/Observer/A2/DigitObserver.java"/>
+<editorState selectionLength="24" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FrameObserver.java" partName="FrameObserver.java" path="D:/Files/study/test/designpattern/src/Observer/A2/FrameObserver.java" title="FrameObserver.java" tooltip="designpattern/src/Observer/A2/FrameObserver.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/Observer/A2/FrameObserver.java"/>
+<editorState selectionLength="24" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Observer.java" partName="Observer.java" path="D:/Files/study/test/designpattern/src/Observer/A2/Observer.java" title="Observer.java" tooltip="designpattern/src/Observer/A2/Observer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/Observer/A2/Observer.java"/>
+<editorState selectionLength="24" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RandomNumberGenerator.java" partName="RandomNumberGenerator.java" path="D:/Files/study/test/designpattern/src/Observer/A2/RandomNumberGenerator.java" title="RandomNumberGenerator.java" tooltip="designpattern/src/Observer/A2/RandomNumberGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/Observer/A2/RandomNumberGenerator.java"/>
+<editorState selectionLength="0" selectionOffset="335"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DESEncryptor.java" partName="DESEncryptor.java" path="D:/Files/study/test/thinkinJava/src/com/hundsun/lcpt/algorithm/DESEncryptor.java" title="DESEncryptor.java" tooltip="thinkinJava/src/com/hundsun/lcpt/algorithm/DESEncryptor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/hundsun/lcpt/algorithm/DESEncryptor.java"/>
+<editorState selectionLength="65" selectionOffset="15778"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Gerbils.java" partName="Gerbils.java" path="D:/Files/study/test/thinkinJava/src/holding/Gerbils.java" title="Gerbils.java" tooltip="thinkinJava/src/holding/Gerbils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/holding/Gerbils.java"/>
+<editorState selectionLength="0" selectionOffset="1221"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanFactoryTest.java" partName="BeanFactoryTest.java" path="D:/Files/study/test/spring/src/com/importnew/BeanFactoryTest.java" title="BeanFactoryTest.java" tooltip="spring/src/com/importnew/BeanFactoryTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/com/importnew/BeanFactoryTest.java"/>
+<editorState selectionLength="0" selectionOffset="529"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainApp.java" partName="MainApp.java" path="D:/Files/study/test/spring/src/com/importnew/MainApp.java" title="MainApp.java" tooltip="spring/src/com/importnew/MainApp.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/com/importnew/MainApp.java"/>
+<editorState selectionLength="0" selectionOffset="471"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/Files/study/test/spring/src/Test.java" title="Test.java" tooltip="spring/src/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/Test.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="Beans.xml" partName="Beans.xml" path="D:/Files/study/test/spring/src/Beans.xml" title="Beans.xml" tooltip="spring/src/Beans.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/Beans.xml"/>
+<editorState selectionLength="437" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlBeanFactory.java" partName="XmlBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanFactory.java" title="XmlBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanFactory.java"/>
+<editorState selectionLength="14" selectionOffset="2563"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DisposableBeanAdapter.java" partName="DisposableBeanAdapter.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/DisposableBeanAdapter.java" title="DisposableBeanAdapter.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/DisposableBeanAdapter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/DisposableBeanAdapter.java"/>
+<editorState selectionLength="0" selectionOffset="8684"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AliasRegistry.java" partName="AliasRegistry.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/AliasRegistry.java" title="AliasRegistry.java" tooltip="springsource/org.springframework.core/org/springframework/core/AliasRegistry.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/AliasRegistry.java"/>
+<editorState selectionLength="0" selectionOffset="1121"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleAliasRegistry.java" partName="SimpleAliasRegistry.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/SimpleAliasRegistry.java" title="SimpleAliasRegistry.java" tooltip="springsource/org.springframework.core/org/springframework/core/SimpleAliasRegistry.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/SimpleAliasRegistry.java"/>
+<editorState selectionLength="0" selectionOffset="6200"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingletonBeanRegistry.java" partName="SingletonBeanRegistry.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/config/SingletonBeanRegistry.java" title="SingletonBeanRegistry.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/config/SingletonBeanRegistry.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/config/SingletonBeanRegistry.java"/>
+<editorState selectionLength="0" selectionOffset="1258"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultSingletonBeanRegistry.java" partName="DefaultSingletonBeanRegistry.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" title="DefaultSingletonBeanRegistry.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java"/>
+<editorState selectionLength="0" selectionOffset="7758"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HierarchicalBeanFactory.java" partName="HierarchicalBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/HierarchicalBeanFactory.java" title="HierarchicalBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/HierarchicalBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/HierarchicalBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="1154"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FactoryBeanRegistrySupport.java" partName="FactoryBeanRegistrySupport.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java" title="FactoryBeanRegistrySupport.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java"/>
+<editorState selectionLength="0" selectionOffset="8296"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConfigurableBeanFactory.java" partName="ConfigurableBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/config/ConfigurableBeanFactory.java" title="ConfigurableBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/config/ConfigurableBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/config/ConfigurableBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="2175"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="XmlBeanDefinitionReader.class" partName="XmlBeanDefinitionReader.class" title="XmlBeanDefinitionReader.class" tooltip="org.springframework.beans.factory.xml.XmlBeanDefinitionReader" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlBeanDefinitionReader.class"/>
+<editorState selectionLength="19" selectionOffset="12066"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Resource.java" partName="Resource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/Resource.java" title="Resource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/Resource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/Resource.java"/>
+<editorState selectionLength="14" selectionOffset="1840"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InputStreamSource.java" partName="InputStreamSource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/InputStreamSource.java" title="InputStreamSource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/InputStreamSource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/InputStreamSource.java"/>
+<editorState selectionLength="14" selectionOffset="2193"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractResource.java" partName="AbstractResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/AbstractResource.java" title="AbstractResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/AbstractResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/AbstractResource.java"/>
+<editorState selectionLength="0" selectionOffset="1399"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractFileResolvingResource.java" partName="AbstractFileResolvingResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/AbstractFileResolvingResource.java" title="AbstractFileResolvingResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/AbstractFileResolvingResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/AbstractFileResolvingResource.java"/>
+<editorState selectionLength="0" selectionOffset="1294"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassPathResource.java" partName="ClassPathResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/ClassPathResource.java" title="ClassPathResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/ClassPathResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/ClassPathResource.java"/>
+<editorState selectionLength="0" selectionOffset="3832"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="test.xml" partName="test.xml" path="D:/Files/study/test/spring/src/test.xml" title="test.xml" tooltip="spring/src/test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/test.xml"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorld.java" partName="HelloWorld.java" path="D:/Files/study/test/spring/src/com/importnew/HelloWorld.java" title="HelloWorld.java" tooltip="spring/src/com/importnew/HelloWorld.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/com/importnew/HelloWorld.java"/>
+<editorState selectionLength="0" selectionOffset="24"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HW.java" partName="HW.java" path="D:/Files/study/test/io/src/HW.java" title="HW.java" tooltip="io/src/HW.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/HW.java"/>
+<editorState selectionLength="0" selectionOffset="188"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileCopy.java" partName="FileCopy.java" path="D:/Files/study/test/io/src/FileCopy.java" title="FileCopy.java" tooltip="io/src/FileCopy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/FileCopy.java"/>
+<editorState selectionLength="0" selectionOffset="391"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NumberGenerator.java" partName="NumberGenerator.java" path="D:/Files/study/test/designpattern/src/Observer/A1/NumberGenerator.java" title="NumberGenerator.java" tooltip="designpattern/src/Observer/A1/NumberGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/Observer/A1/NumberGenerator.java"/>
+<editorState selectionLength="0" selectionOffset="647"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassRelativeResourceLoader.java" partName="ClassRelativeResourceLoader.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/ClassRelativeResourceLoader.java" title="ClassRelativeResourceLoader.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/ClassRelativeResourceLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/ClassRelativeResourceLoader.java"/>
+<editorState selectionLength="0" selectionOffset="3"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ByteArrayResource.java" partName="ByteArrayResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/ByteArrayResource.java" title="ByteArrayResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/ByteArrayResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/ByteArrayResource.java"/>
+<editorState selectionLength="0" selectionOffset="2211"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResource.java" partName="FileSystemResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/FileSystemResource.java" title="FileSystemResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/FileSystemResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/FileSystemResource.java"/>
+<editorState selectionLength="0" selectionOffset="3"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UrlResource.java" partName="UrlResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/UrlResource.java" title="UrlResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/UrlResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/UrlResource.java"/>
+<editorState selectionLength="0" selectionOffset="3"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceLoader.java" partName="ResourceLoader.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/ResourceLoader.java" title="ResourceLoader.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/ResourceLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/ResourceLoader.java"/>
+<editorState selectionLength="0" selectionOffset="3"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResourceLoader.java" partName="ResourceLoader.java" path="D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/ResourceLoader.java" title="ResourceLoader.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/ResourceLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/ResourceLoader.java"/>
+<editorState selectionLength="0" selectionOffset="1781"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="InputStreamSource.class" partName="InputStreamSource.class" title="InputStreamSource.class" tooltip="org.springframework.core.io.InputStreamSource" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core.io(InputStreamSource.class"/>
+<editorState selectionLength="0" selectionOffset="1489"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassPathResource.java" partName="ClassPathResource.java" path="D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/ClassPathResource.java" title="ClassPathResource.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/ClassPathResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/ClassPathResource.java"/>
+<editorState selectionLength="0" selectionOffset="5428"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="URLClassPath.class" partName="URLClassPath.class" title="URLClassPath.class" tooltip="sun.misc.URLClassPath" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;sun.misc(URLClassPath.class"/>
+<editorState selectionLength="11" selectionOffset="28063"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="URLClassPath$Loader.class" partName="URLClassPath$Loader.class" title="URLClassPath$Loader.class" tooltip="sun.misc.URLClassPath$Loader" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;sun.misc(URLClassPath$Loader.class"/>
+<editorState selectionLength="11" selectionOffset="20573"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultListableBeanFactory.java" partName="DefaultListableBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" title="DefaultListableBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultListableBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="5152"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlBeanDefinitionReader.java" partName="XmlBeanDefinitionReader.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" title="XmlBeanDefinitionReader.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java"/>
+<editorState selectionLength="35" selectionOffset="4217"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractAutowireCapableBeanFactory.java" partName="AbstractAutowireCapableBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" title="AbstractAutowireCapableBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="5549"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractBeanFactory.java" partName="AbstractBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractBeanFactory.java" title="AbstractBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="5297"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EncodedResource.java" partName="EncodedResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/support/EncodedResource.java" title="EncodedResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/support/EncodedResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/support/EncodedResource.java"/>
+<editorState selectionLength="0" selectionOffset="2720"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="Object.class" partName="Object.class" title="Object.class" tooltip="java.lang.Object" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang(Object.class"/>
+<editorState selectionLength="6" selectionOffset="495"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="InputSource.class" partName="InputSource.class" title="InputSource.class" tooltip="org.xml.sax.InputSource" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;org.xml.sax(InputSource.class"/>
+<editorState selectionLength="11" selectionOffset="2414"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlValidationModeDetector.java" partName="XmlValidationModeDetector.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/util/xml/XmlValidationModeDetector.java" title="XmlValidationModeDetector.java" tooltip="springsource/org.springframework.core/org/springframework/util/xml/XmlValidationModeDetector.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/util/xml/XmlValidationModeDetector.java"/>
+<editorState selectionLength="0" selectionOffset="3010"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DelegatingEntityResolver.java" partName="DelegatingEntityResolver.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/DelegatingEntityResolver.java" title="DelegatingEntityResolver.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/DelegatingEntityResolver.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/DelegatingEntityResolver.java"/>
+<editorState selectionLength="24" selectionOffset="1870"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanDefinitionParserDelegate.java" partName="BeanDefinitionParserDelegate.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java" title="BeanDefinitionParserDelegate.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java"/>
+<editorState selectionLength="0" selectionOffset="30206"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringUtils.java" partName="StringUtils.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/util/StringUtils.java" title="StringUtils.java" tooltip="springsource/org.springframework.core/org/springframework/util/StringUtils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/util/StringUtils.java"/>
+<editorState selectionLength="21" selectionOffset="33974"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataInputStreamDemo.java" partName="DataInputStreamDemo.java" path="D:/Files/study/test/io/src/DataInputStreamDemo.java" title="DataInputStreamDemo.java" tooltip="io/src/DataInputStreamDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/DataInputStreamDemo.java"/>
+<editorState selectionLength="0" selectionOffset="946"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataOutputStreamDemo.java" partName="DataOutputStreamDemo.java" path="D:/Files/study/test/io/src/DataOutputStreamDemo.java" title="DataOutputStreamDemo.java" tooltip="io/src/DataOutputStreamDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/DataOutputStreamDemo.java"/>
+<editorState selectionLength="0" selectionOffset="325"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo05.java" partName="SystemDemo05.java" path="D:/Files/study/test/io/src/SystemDemo05.java" title="SystemDemo05.java" tooltip="io/src/SystemDemo05.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SystemDemo05.java"/>
+<editorState selectionLength="0" selectionOffset="437"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo01.java" partName="SystemDemo01.java" path="D:/Files/study/test/io/src/SystemDemo01.java" title="SystemDemo01.java" tooltip="io/src/SystemDemo01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SystemDemo01.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo02.java" partName="SystemDemo02.java" path="D:/Files/study/test/io/src/SystemDemo02.java" title="SystemDemo02.java" tooltip="io/src/SystemDemo02.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SystemDemo02.java"/>
+<editorState selectionLength="0" selectionOffset="140"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo03.java" partName="SystemDemo03.java" path="D:/Files/study/test/io/src/SystemDemo03.java" title="SystemDemo03.java" tooltip="io/src/SystemDemo03.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SystemDemo03.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo04.java" partName="SystemDemo04.java" path="D:/Files/study/test/io/src/SystemDemo04.java" title="SystemDemo04.java" tooltip="io/src/SystemDemo04.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SystemDemo04.java"/>
+<editorState selectionLength="0" selectionOffset="198"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BufferedReaderDemo01.java" partName="BufferedReaderDemo01.java" path="D:/Files/study/test/io/src/BufferedReaderDemo01.java" title="BufferedReaderDemo01.java" tooltip="io/src/BufferedReaderDemo01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/BufferedReaderDemo01.java"/>
+<editorState selectionLength="0" selectionOffset="437"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanEntry.java" partName="BeanEntry.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/parsing/BeanEntry.java" title="BeanEntry.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/parsing/BeanEntry.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/parsing/BeanEntry.java"/>
+<editorState selectionLength="9" selectionOffset="1019"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AbstractBeanDefinition.java" partName="AbstractBeanDefinition.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractBeanDefinition.java" title="AbstractBeanDefinition.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractBeanDefinition.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/AbstractBeanDefinition.java"/>
+<editorState selectionLength="0" selectionOffset="6187"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanMetadataAttributeAccessor.java" partName="BeanMetadataAttributeAccessor.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/BeanMetadataAttributeAccessor.java" title="BeanMetadataAttributeAccessor.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/BeanMetadataAttributeAccessor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/BeanMetadataAttributeAccessor.java"/>
+<editorState selectionLength="20" selectionOffset="1595"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanMetadataAttribute.java" partName="BeanMetadataAttribute.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/BeanMetadataAttribute.java" title="BeanMetadataAttribute.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/BeanMetadataAttribute.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/BeanMetadataAttribute.java"/>
+<editorState selectionLength="0" selectionOffset="747"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodOverrides.java" partName="MethodOverrides.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/MethodOverrides.java" title="MethodOverrides.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/MethodOverrides.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/MethodOverrides.java"/>
+<editorState selectionLength="11" selectionOffset="1807"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodOverride.java" partName="MethodOverride.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/MethodOverride.java" title="MethodOverride.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/MethodOverride.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/MethodOverride.java"/>
+<editorState selectionLength="9" selectionOffset="2520"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanFactoryUtils.java" partName="BeanFactoryUtils.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactoryUtils.java" title="BeanFactoryUtils.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactoryUtils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactoryUtils.java"/>
+<editorState selectionLength="29" selectionOffset="1700"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SystemDemo06.java" partName="SystemDemo06.java" path="D:/Files/study/test/io/src/SystemDemo06.java" title="SystemDemo06.java" tooltip="io/src/SystemDemo06.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SystemDemo06.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ExecDemo01.java" partName="ExecDemo01.java" path="D:/Files/study/test/io/src/ExecDemo01.java" title="ExecDemo01.java" tooltip="io/src/ExecDemo01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/ExecDemo01.java"/>
+<editorState selectionLength="0" selectionOffset="302"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ExecDemo02.java" partName="ExecDemo02.java" path="D:/Files/study/test/io/src/ExecDemo02.java" title="ExecDemo02.java" tooltip="io/src/ExecDemo02.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/ExecDemo02.java"/>
+<editorState selectionLength="0" selectionOffset="347"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InputData.java" partName="InputData.java" path="D:/Files/study/test/io/src/InputData.java" title="InputData.java" tooltip="io/src/InputData.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/InputData.java"/>
+<editorState selectionLength="0" selectionOffset="670"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestInput.java" partName="TestInput.java" path="D:/Files/study/test/io/src/TestInput.java" title="TestInput.java" tooltip="io/src/TestInput.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestInput.java"/>
+<editorState selectionLength="0" selectionOffset="376"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestPrintStream2.java" partName="TestPrintStream2.java" path="D:/Files/study/test/io/src/TestPrintStream2.java" title="TestPrintStream2.java" tooltip="io/src/TestPrintStream2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestPrintStream2.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ScannerDemo01.java" partName="ScannerDemo01.java" path="D:/Files/study/test/io/src/ScannerDemo01.java" title="ScannerDemo01.java" tooltip="io/src/ScannerDemo01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/ScannerDemo01.java"/>
+<editorState selectionLength="0" selectionOffset="263"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SequenceDemo.java" partName="SequenceDemo.java" path="D:/Files/study/test/io/src/SequenceDemo.java" title="SequenceDemo.java" tooltip="io/src/SequenceDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/SequenceDemo.java"/>
+<editorState selectionLength="0" selectionOffset="662"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="SequenceInputStream.class" partName="SequenceInputStream.class" title="SequenceInputStream.class" tooltip="java.io.SequenceInputStream" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=io/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;java.io(SequenceInputStream.class"/>
+<editorState selectionLength="0" selectionOffset="2709"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="Vector.class" partName="Vector.class" title="Vector.class" tooltip="java.util.Vector" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=io/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;java.util(Vector.class"/>
+<editorState selectionLength="8" selectionOffset="12452"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestObjectIO.java" partName="TestObjectIO.java" path="D:/Files/study/test/io/src/TestObjectIO.java" title="TestObjectIO.java" tooltip="io/src/TestObjectIO.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestObjectIO.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ZipFileDemo01.java" partName="ZipFileDemo01.java" path="D:/Files/study/test/io/src/ZipFileDemo01.java" title="ZipFileDemo01.java" tooltip="io/src/ZipFileDemo01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/ZipFileDemo01.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ZipFileDemo02.java" partName="ZipFileDemo02.java" path="D:/Files/study/test/io/src/ZipFileDemo02.java" title="ZipFileDemo02.java" tooltip="io/src/ZipFileDemo02.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/ZipFileDemo02.java"/>
+<editorState selectionLength="0" selectionOffset="910"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CharSetDemo01.java" partName="CharSetDemo01.java" path="D:/Files/study/test/io/src/CharSetDemo01.java" title="CharSetDemo01.java" tooltip="io/src/CharSetDemo01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/CharSetDemo01.java"/>
+<editorState selectionLength="0" selectionOffset="166"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanDefinitionRegistry.java" partName="BeanDefinitionRegistry.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/BeanDefinitionRegistry.java" title="BeanDefinitionRegistry.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/BeanDefinitionRegistry.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/BeanDefinitionRegistry.java"/>
+<editorState selectionLength="22" selectionOffset="2602"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="Node.class" partName="Node.class" title="Node.class" tooltip="org.w3c.dom.Node" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;org.w3c.dom(Node.class"/>
+<editorState selectionLength="15" selectionOffset="22628"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlReaderContext.java" partName="XmlReaderContext.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlReaderContext.java" title="XmlReaderContext.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlReaderContext.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/XmlReaderContext.java"/>
+<editorState selectionLength="27" selectionOffset="2767"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NamespaceHandlerResolver.java" partName="NamespaceHandlerResolver.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/NamespaceHandlerResolver.java" title="NamespaceHandlerResolver.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/NamespaceHandlerResolver.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/NamespaceHandlerResolver.java"/>
+<editorState selectionLength="7" selectionOffset="1301"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ParseState.java" partName="ParseState.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/parsing/ParseState.java" title="ParseState.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/parsing/ParseState.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/parsing/ParseState.java"/>
+<editorState selectionLength="4" selectionOffset="1867"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RootBeanDefinition.java" partName="RootBeanDefinition.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/RootBeanDefinition.java" title="RootBeanDefinition.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/RootBeanDefinition.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/RootBeanDefinition.java"/>
+<editorState selectionLength="0" selectionOffset="2384"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GenericBeanDefinition.java" partName="GenericBeanDefinition.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/support/GenericBeanDefinition.java" title="GenericBeanDefinition.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/support/GenericBeanDefinition.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/GenericBeanDefinition.java"/>
+<editorState selectionLength="0" selectionOffset="2199"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlBeanFactory.java" partName="XmlBeanFactory.java" path="D:/Files/study/test/spring/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanFactory.java" title="XmlBeanFactory.java" tooltip="spring/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="3359"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FactoryBean.java" partName="FactoryBean.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/FactoryBean.java" title="FactoryBean.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/FactoryBean.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/FactoryBean.java"/>
+<editorState selectionLength="0" selectionOffset="2737"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/Files/study/test/thinkinJava/src/classloader/test/Test.java" title="Test.java" tooltip="thinkinJava/src/classloader/test/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/classloader/test/Test.java"/>
+<editorState selectionLength="0" selectionOffset="114"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DiskClassLoader.java" partName="DiskClassLoader.java" path="D:/Files/study/test/thinkinJava/src/classloader/DiskClassLoader.java" title="DiskClassLoader.java" tooltip="thinkinJava/src/classloader/DiskClassLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/classloader/DiskClassLoader.java"/>
+<editorState selectionLength="0" selectionOffset="329"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassLoaderTest.java" partName="ClassLoaderTest.java" path="D:/Files/study/test/thinkinJava/src/classloader/ClassLoaderTest.java" title="ClassLoaderTest.java" tooltip="thinkinJava/src/classloader/ClassLoaderTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/classloader/ClassLoaderTest.java"/>
+<editorState selectionLength="0" selectionOffset="1100"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CharSetDemo02.java" partName="CharSetDemo02.java" path="D:/Files/study/test/io/src/CharSetDemo02.java" title="CharSetDemo02.java" tooltip="io/src/CharSetDemo02.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/CharSetDemo02.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PipedDemo.java" partName="PipedDemo.java" path="D:/Files/study/test/io/src/PipedDemo.java" title="PipedDemo.java" tooltip="io/src/PipedDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/PipedDemo.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestContains.java" partName="TestContains.java" path="D:/Files/study/test/thinkinJava/src/com/hundsun/lcpt/TestContains.java" title="TestContains.java" tooltip="thinkinJava/src/com/hundsun/lcpt/TestContains.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/hundsun/lcpt/TestContains.java"/>
+<editorState selectionLength="0" selectionOffset="339"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/Files/study/test/thinkinJava/src/holding/Test.java" title="Test.java" tooltip="thinkinJava/src/holding/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/holding/Test.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFileInputStream.java" partName="TestFileInputStream.java" path="D:/ifm4.0/Sources/testweb/src/com/hundsun/io/TestFileInputStream.java" title="TestFileInputStream.java" tooltip="testweb/src/com/hundsun/io/TestFileInputStream.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/src/com/hundsun/io/TestFileInputStream.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringNum.java" partName="StringNum.java" path="D:/ifm4.0/Sources/testweb/src/com/hundsun/io/StringNum.java" title="StringNum.java" tooltip="testweb/src/com/hundsun/io/StringNum.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/src/com/hundsun/io/StringNum.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFileWriter.java" partName="TestFileWriter.java" path="D:/Files/study/test/io/src/TestFileWriter.java" title="TestFileWriter.java" tooltip="io/src/TestFileWriter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestFileWriter.java"/>
+<editorState selectionLength="25" selectionOffset="94"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFileWriter2.java" partName="TestFileWriter2.java" path="D:/Files/study/test/io/src/TestFileWriter2.java" title="TestFileWriter2.java" tooltip="io/src/TestFileWriter2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestFileWriter2.java"/>
+<editorState selectionLength="0" selectionOffset="311"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="test.xml" partName="test.xml" path="D:/Files/study/test/io/src/test.xml" title="test.xml" tooltip="io/src/test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/test.xml"/>
+<editorState selectionLength="0" selectionOffset="293"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="DocumentBuilder.class" partName="DocumentBuilder.class" title="DocumentBuilder.class" tooltip="javax.xml.parsers.DocumentBuilder" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=io/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;javax.xml.parsers(DocumentBuilder.class"/>
+<editorState selectionLength="0" selectionOffset="5702"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="DocumentBuilderImpl.class" partName="DocumentBuilderImpl.class" title="DocumentBuilderImpl.class" tooltip="com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=.JETEmitters/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;com.sun.org.apache.xerces.internal.jaxp(DocumentBuilderImpl.class"/>
+<editorState selectionLength="0" selectionOffset="15643"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="book.xml" partName="book.xml" path="D:/Files/study/test/io/src/xml/sax/book.xml" title="book.xml" tooltip="io/src/xml/sax/book.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/sax/book.xml"/>
+<editorState selectionLength="0" selectionOffset="73"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Demo1.java" partName="Demo1.java" path="D:/Files/study/test/io/src/xml/sax/Demo1.java" title="Demo1.java" tooltip="io/src/xml/sax/Demo1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/sax/Demo1.java"/>
+<editorState selectionLength="0" selectionOffset="935"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Demo2.java" partName="Demo2.java" path="D:/Files/study/test/io/src/xml/sax/Demo2.java" title="Demo2.java" tooltip="io/src/xml/sax/Demo2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/sax/Demo2.java"/>
+<editorState selectionLength="0" selectionOffset="1273"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Demo3.java" partName="Demo3.java" path="D:/Files/study/test/io/src/xml/sax/Demo3.java" title="Demo3.java" tooltip="io/src/xml/sax/Demo3.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/sax/Demo3.java"/>
+<editorState selectionLength="0" selectionOffset="1188"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="book.xml" partName="book.xml" path="D:/Files/study/test/io/src/xml/dom4j/book.xml" title="book.xml" tooltip="io/src/xml/dom4j/book.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/dom4j/book.xml"/>
+<editorState selectionLength="0" selectionOffset="283"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="XMLSerializer.class" partName="XMLSerializer.class" title="XMLSerializer.class" tooltip="net.sf.json.xml.XMLSerializer" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=io/lib\/json-lib-2.4-jdk15.jar&lt;net.sf.json.xml(XMLSerializer.class"/>
+<editorState selectionLength="0" selectionOffset="7695"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/Files/study/test/thinkinJava/src/org/json/Test.java" title="Test.java" tooltip="thinkinJava/src/org/json/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/Test.java"/>
+<editorState selectionLength="0" selectionOffset="3771"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONML.java" partName="JSONML.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONML.java" title="JSONML.java" tooltip="thinkinJava/src/org/json/JSONML.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONML.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONStringer.java" partName="JSONStringer.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONStringer.java" title="JSONStringer.java" tooltip="thinkinJava/src/org/json/JSONStringer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONStringer.java"/>
+<editorState selectionLength="0" selectionOffset="2902"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONTokener.java" partName="JSONTokener.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONTokener.java" title="JSONTokener.java" tooltip="thinkinJava/src/org/json/JSONTokener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONTokener.java"/>
+<editorState selectionLength="0" selectionOffset="5923"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONWriter.java" partName="JSONWriter.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONWriter.java" title="JSONWriter.java" tooltip="thinkinJava/src/org/json/JSONWriter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONWriter.java"/>
+<editorState selectionLength="0" selectionOffset="2411"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XMLTokener.java" partName="XMLTokener.java" path="D:/Files/study/test/thinkinJava/src/org/json/XMLTokener.java" title="XMLTokener.java" tooltip="thinkinJava/src/org/json/XMLTokener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/XMLTokener.java"/>
+<editorState selectionLength="0" selectionOffset="9616"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONArray.java" partName="JSONArray.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONArray.java" title="JSONArray.java" tooltip="thinkinJava/src/org/json/JSONArray.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONArray.java"/>
+<editorState selectionLength="0" selectionOffset="7313"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONException.java" partName="JSONException.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONException.java" title="JSONException.java" tooltip="thinkinJava/src/org/json/JSONException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONException.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONPointer.java" partName="JSONPointer.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONPointer.java" title="JSONPointer.java" tooltip="thinkinJava/src/org/json/JSONPointer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONPointer.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="StringBuilder.class" partName="StringBuilder.class" title="StringBuilder.class" tooltip="java.lang.StringBuilder" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=designpattern/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang(StringBuilder.class"/>
+<editorState selectionLength="0" selectionOffset="2790"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/Files/study/test/io/src/xml/json/Test.java" title="Test.java" tooltip="io/src/xml/json/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/json/Test.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlDemo.java" partName="XmlDemo.java" path="D:/Files/study/test/io/src/xml/XmlDemo.java" title="XmlDemo.java" tooltip="io/src/xml/XmlDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/xml/XmlDemo.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestBufferStream1.java" partName="TestBufferStream1.java" path="D:/Files/study/test/io/src/TestBufferStream1.java" title="TestBufferStream1.java" tooltip="io/src/TestBufferStream1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestBufferStream1.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestBufferStream2.java" partName="TestBufferStream2.java" path="D:/Files/study/test/io/src/TestBufferStream2.java" title="TestBufferStream2.java" tooltip="io/src/TestBufferStream2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestBufferStream2.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestTransForm1.java" partName="TestTransForm1.java" path="D:/Files/study/test/io/src/TestTransForm1.java" title="TestTransForm1.java" tooltip="io/src/TestTransForm1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestTransForm1.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestPrintStream1.java" partName="TestPrintStream1.java" path="D:/Files/study/test/io/src/TestPrintStream1.java" title="TestPrintStream1.java" tooltip="io/src/TestPrintStream1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestPrintStream1.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="json.xml" partName="json.xml" path="D:/Files/study/test/thinkinJava/src/org/json/json.xml" title="json.xml" tooltip="thinkinJava/src/org/json/json.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/json.xml"/>
+<editorState selectionLength="0" selectionOffset="280"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="xml.xml" partName="xml.xml" path="D:/Files/study/test/thinkinJava/src/org/json/xml.xml" title="xml.xml" tooltip="thinkinJava/src/org/json/xml.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/xml.xml"/>
+<editorState selectionLength="0" selectionOffset="66"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="LICENSE" partName="LICENSE" path="D:/Files/study/test/thinkinJava/src/org/json/LICENSE" title="LICENSE" tooltip="thinkinJava/src/org/json/LICENSE" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/LICENSE"/>
+<editorState selectionLength="0" selectionOffset="745"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="README.md" partName="README.md" path="D:/Files/study/test/thinkinJava/src/org/json/README.md" title="README.md" tooltip="thinkinJava/src/org/json/README.md" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/README.md"/>
+<editorState selectionLength="46" selectionOffset="3704"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Cookie.java" partName="Cookie.java" path="D:/Files/study/test/thinkinJava/src/org/json/Cookie.java" title="Cookie.java" tooltip="thinkinJava/src/org/json/Cookie.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/Cookie.java"/>
+<editorState selectionLength="0" selectionOffset="6460"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CookieList.java" partName="CookieList.java" path="D:/Files/study/test/thinkinJava/src/org/json/CookieList.java" title="CookieList.java" tooltip="thinkinJava/src/org/json/CookieList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/CookieList.java"/>
+<editorState selectionLength="0" selectionOffset="1983"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="conf.xml" partName="conf.xml" path="D:/Files/study/test/mybatis/src/conf.xml" title="conf.xml" tooltip="mybatis/src/conf.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/conf.xml"/>
+<editorState selectionLength="0" selectionOffset="1063"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="User.java" partName="User.java" path="D:/Files/study/test/mybatis/src/com/lmm/domain/User.java" title="User.java" tooltip="mybatis/src/com/lmm/domain/User.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/domain/User.java"/>
+<editorState selectionLength="0" selectionOffset="620"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="userMapper.xml111" partName="userMapper.xml111" path="D:/Files/study/test/mybatis/src/com/lmm/mapping/userMapper.xml111" title="userMapper.xml111" tooltip="mybatis/src/com/lmm/mapping/userMapper.xml111" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/mapping/userMapper.xml111"/>
+<editorState selectionLength="26" selectionOffset="1150"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InsurerInfo.java" partName="InsurerInfo.java" path="D:/Files/study/test/mybatis/src/com/lmm/domain/InsurerInfo.java" title="InsurerInfo.java" tooltip="mybatis/src/com/lmm/domain/InsurerInfo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/domain/InsurerInfo.java"/>
+<editorState selectionLength="0" selectionOffset="863"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/Files/study/test/mybatis/src/com/lmm/test/Test.java" title="Test.java" tooltip="mybatis/src/com/lmm/test/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/test/Test.java"/>
+<editorState selectionLength="0" selectionOffset="2331"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyBatisUtil.java" partName="MyBatisUtil.java" path="D:/Files/study/test/mybatis/src/com/lmm/test/MyBatisUtil.java" title="MyBatisUtil.java" tooltip="mybatis/src/com/lmm/test/MyBatisUtil.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/test/MyBatisUtil.java"/>
+<editorState selectionLength="0" selectionOffset="25"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test2.java" partName="Test2.java" path="D:/Files/study/test/mybatis/src/com/lmm/test/Test2.java" title="Test2.java" tooltip="mybatis/src/com/lmm/test/Test2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/test/Test2.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="productMapper.xml" partName="productMapper.xml" path="D:/Files/study/test/mybatis/src/com/lmm/mapping/productMapper.xml" title="productMapper.xml" tooltip="mybatis/src/com/lmm/mapping/productMapper.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/mapping/productMapper.xml"/>
+<editorState selectionLength="0" selectionOffset="1605"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InsureProduct.java" partName="InsureProduct.java" path="D:/Files/study/test/mybatis/src/com/lmm/domain/InsureProduct.java" title="InsureProduct.java" tooltip="mybatis/src/com/lmm/domain/InsureProduct.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/domain/InsureProduct.java"/>
+<editorState selectionLength="13" selectionOffset="317"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="userMapper.xml" partName="userMapper.xml" path="D:/Files/study/test/mybatis/src/com/lmm/mapping/userMapper.xml" title="userMapper.xml" tooltip="mybatis/src/com/lmm/mapping/userMapper.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/mapping/userMapper.xml"/>
+<editorState selectionLength="0" selectionOffset="1087"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VoucherReq.java" partName="VoucherReq.java" path="D:/Files/study/test/mybatis/src/com/lmm/domain/VoucherReq.java" title="VoucherReq.java" tooltip="mybatis/src/com/lmm/domain/VoucherReq.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/domain/VoucherReq.java"/>
+<editorState selectionLength="1" selectionOffset="85"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="voucherMapper.xml" partName="voucherMapper.xml" path="D:/Files/study/test/mybatis/src/com/lmm/mapping/voucherMapper.xml" title="voucherMapper.xml" tooltip="mybatis/src/com/lmm/mapping/voucherMapper.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/mapping/voucherMapper.xml"/>
+<editorState selectionLength="0" selectionOffset="793"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Voucher.java" partName="Voucher.java" path="D:/Files/study/test/mybatis/src/com/lmm/interf/Voucher.java" title="Voucher.java" tooltip="mybatis/src/com/lmm/interf/Voucher.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/interf/Voucher.java"/>
+<editorState selectionLength="0" selectionOffset="138"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test3.java" partName="Test3.java" path="D:/Files/study/test/mybatis/src/com/lmm/test/Test3.java" title="Test3.java" tooltip="mybatis/src/com/lmm/test/Test3.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mybatis/src/com/lmm/test/Test3.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HTTPTokener.java" partName="HTTPTokener.java" path="D:/Files/study/test/thinkinJava/src/org/json/HTTPTokener.java" title="HTTPTokener.java" tooltip="thinkinJava/src/org/json/HTTPTokener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/HTTPTokener.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONString.java" partName="JSONString.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONString.java" title="JSONString.java" tooltip="thinkinJava/src/org/json/JSONString.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONString.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XML.java" partName="XML.java" path="D:/Files/study/test/thinkinJava/src/org/json/XML.java" title="XML.java" tooltip="thinkinJava/src/org/json/XML.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/XML.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Property.java" partName="Property.java" path="D:/Files/study/test/thinkinJava/src/org/json/Property.java" title="Property.java" tooltip="thinkinJava/src/org/json/Property.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/Property.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlBeanDefinitionReader.java" partName="XmlBeanDefinitionReader.java" path="D:/Files/study/test/spring/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" title="XmlBeanDefinitionReader.java" tooltip="spring/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/org.springframework.beans/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java"/>
+<editorState selectionLength="0" selectionOffset="11664"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultDocumentLoader.java" partName="DefaultDocumentLoader.java" path="D:/Files/study/test/spring/org.springframework.beans/org/springframework/beans/factory/xml/DefaultDocumentLoader.java" title="DefaultDocumentLoader.java" tooltip="spring/org.springframework.beans/org/springframework/beans/factory/xml/DefaultDocumentLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/org.springframework.beans/org/springframework/beans/factory/xml/DefaultDocumentLoader.java"/>
+<editorState selectionLength="0" selectionOffset="2877"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractApplicationContext.class" partName="AbstractApplicationContext.class" title="AbstractApplicationContext.class" tooltip="org.springframework.context.support.AbstractApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context.support(AbstractApplicationContext.class"/>
+<editorState selectionLength="26" selectionOffset="9855"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResponseDemo.java" partName="ResponseDemo.java" path="D:/ifm4.0/Sources/testweb/src/ResponseDemo.java" title="ResponseDemo.java" tooltip="testweb/src/ResponseDemo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/src/ResponseDemo.java"/>
+<editorState selectionLength="0" selectionOffset="827"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="web.xml" partName="web.xml" path="D:/ifm4.0/Sources/testweb/WebContent/WEB-INF/web.xml" title="web.xml" tooltip="testweb/WebContent/WEB-INF/web.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/WebContent/WEB-INF/web.xml"/>
+<editorState selectionLength="0" selectionOffset="1474"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ResponseDemo1.java" partName="ResponseDemo1.java" path="D:/ifm4.0/Sources/testweb/src/ResponseDemo1.java" title="ResponseDemo1.java" tooltip="testweb/src/ResponseDemo1.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/src/ResponseDemo1.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jst.jsp.core.jspsource.source" name="index.jsp" partName="index.jsp" path="D:/ifm4.0/Sources/testweb/WebContent/index.jsp" title="index.jsp" tooltip="testweb/WebContent/index.jsp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/WebContent/index.jsp"/>
+<editorState selectionLength="0" selectionOffset="364"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="test.html" partName="test.html" path="D:/ifm4.0/Sources/testweb/WebContent/test.html" title="test.html" tooltip="testweb/WebContent/test.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/WebContent/test.html"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.wst.html.core.htmlsource.source" name="index.html" partName="index.html" path="D:/ifm4.0/Sources/testweb/WebContent/index.html" title="index.html" tooltip="testweb/WebContent/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/WebContent/index.html"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="ClassPathXmlApplicationContext.class" partName="ClassPathXmlApplicationContext.class" title="ClassPathXmlApplicationContext.class" tooltip="org.springframework.context.support.ClassPathXmlApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context.support(ClassPathXmlApplicationContext.class"/>
+<editorState selectionLength="0" selectionOffset="5351"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractXmlApplicationContext.class" partName="AbstractXmlApplicationContext.class" title="AbstractXmlApplicationContext.class" tooltip="org.springframework.context.support.AbstractXmlApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context.support(AbstractXmlApplicationContext.class"/>
+<editorState selectionLength="0" selectionOffset="2317"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractRefreshableConfigApplicationContext.class" partName="AbstractRefreshableConfigApplicationContext.class" title="AbstractRefreshableConfigApplicationContext.class" tooltip="org.springframework.context.support.AbstractRefreshableConfigApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context.support(AbstractRefreshableConfigApplicationContext.class"/>
+<editorState selectionLength="0" selectionOffset="2134"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractRefreshableApplicationContext.class" partName="AbstractRefreshableApplicationContext.class" title="AbstractRefreshableApplicationContext.class" tooltip="org.springframework.context.support.AbstractRefreshableApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context.support(AbstractRefreshableApplicationContext.class"/>
+<editorState selectionLength="0" selectionOffset="3796"/>
+</editor>
+<editor id="org.eclipse.jst.jsf.facesconfig.ui.FacesConfigEditor" name="faces-config.xml" partName="faces-config.xml" path="D:/ifm4.0/Sources/testweb/WebContent/WEB-INF/faces-config.xml" title="faces-config.xml" tooltip="testweb/WebContent/WEB-INF/faces-config.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/testweb/WebContent/WEB-INF/faces-config.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestFileInputStream.java" partName="TestFileInputStream.java" path="D:/Files/study/test/io/src/TestFileInputStream.java" title="TestFileInputStream.java" tooltip="io/src/TestFileInputStream.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/io/src/TestFileInputStream.java"/>
+<editorState selectionLength="0" selectionOffset="672"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Hashtable.java" partName="Hashtable.java" path="D:/Files/study/test/spring/jdk/java/util/Hashtable.java" title="Hashtable.java" tooltip="spring/jdk/java/util/Hashtable.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/java/util/Hashtable.java"/>
+<editorState selectionLength="0" selectionOffset="4983"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HashMap.java" partName="HashMap.java" path="D:/Files/study/test/spring/jdk/java/util/HashMap.java" title="HashMap.java" tooltip="spring/jdk/java/util/HashMap.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/java/util/HashMap.java"/>
+<editorState selectionLength="0" selectionOffset="8315"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Map.java" partName="Map.java" path="D:/Files/study/test/spring/jdk/java/util/Map.java" title="Map.java" tooltip="spring/jdk/java/util/Map.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/java/util/Map.java"/>
+<editorState selectionLength="0" selectionOffset="38288"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="String.java" partName="String.java" path="D:/Files/study/test/spring/jdk/com/sun/org/apache/xpath/internal/operations/String.java" title="String.java" tooltip="spring/jdk/com/sun/org/apache/xpath/internal/operations/String.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/com/sun/org/apache/xpath/internal/operations/String.java"/>
+<editorState selectionLength="6" selectionOffset="1092"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="String.java" partName="String.java" path="D:/Files/study/test/spring/jdk/java/lang/String.java" title="String.java" tooltip="spring/jdk/java/lang/String.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/java/lang/String.java"/>
+<editorState selectionLength="0" selectionOffset="57094"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanFactory.java" partName="BeanFactory.java" path="D:/Files/study/test/spring/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java" title="BeanFactory.java" tooltip="spring/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="8148"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Object.java" partName="Object.java" path="D:/Files/study/test/spring/jdk/org/omg/CORBA/Object.java" title="Object.java" tooltip="spring/jdk/org/omg/CORBA/Object.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/org/omg/CORBA/Object.java"/>
+<editorState selectionLength="6" selectionOffset="1708"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Object.java" partName="Object.java" path="D:/Files/study/test/spring/jdk/java/lang/Object.java" title="Object.java" tooltip="spring/jdk/java/lang/Object.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/jdk/java/lang/Object.java"/>
+<editorState selectionLength="8" selectionOffset="1431"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CDL.java" partName="CDL.java" path="D:/Files/study/test/thinkinJava/src/org/json/CDL.java" title="CDL.java" tooltip="thinkinJava/src/org/json/CDL.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/CDL.java"/>
+<editorState selectionLength="17" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONObject.java" partName="JSONObject.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONObject.java" title="JSONObject.java" tooltip="thinkinJava/src/org/json/JSONObject.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONObject.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONPointerException.java" partName="JSONPointerException.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONPointerException.java" title="JSONPointerException.java" tooltip="thinkinJava/src/org/json/JSONPointerException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONPointerException.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONPropertyName.java" partName="JSONPropertyName.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONPropertyName.java" title="JSONPropertyName.java" tooltip="thinkinJava/src/org/json/JSONPropertyName.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONPropertyName.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="JSONPropertyIgnore.java" partName="JSONPropertyIgnore.java" path="D:/Files/study/test/thinkinJava/src/org/json/JSONPropertyIgnore.java" title="JSONPropertyIgnore.java" tooltip="thinkinJava/src/org/json/JSONPropertyIgnore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/JSONPropertyIgnore.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name=".gitignore" partName=".gitignore" path="D:/Files/study/test/thinkinJava/src/org/json/.gitignore" title=".gitignore" tooltip="thinkinJava/src/org/json/.gitignore" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/org/json/.gitignore"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CDL.java" partName="CDL.java" path="D:/Files/study/test/json/src/org/json/CDL.java" title="CDL.java" tooltip="json/src/org/json/CDL.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/json/src/org/json/CDL.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XMLTokener.java" partName="XMLTokener.java" path="D:/Files/study/test/json/src/org/json/XMLTokener.java" title="XMLTokener.java" tooltip="json/src/org/json/XMLTokener.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/json/src/org/json/XMLTokener.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XML.java" partName="XML.java" path="D:/Files/study/test/json/src/org/json/XML.java" title="XML.java" tooltip="json/src/org/json/XML.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/json/src/org/json/XML.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleIOC.java" partName="SimpleIOC.java" path="D:/Files/study/test/spring/src/testioc/SimpleIOC.java" title="SimpleIOC.java" tooltip="spring/src/testioc/SimpleIOC.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testioc/SimpleIOC.java"/>
+<editorState selectionLength="0" selectionOffset="2973"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DefaultBeanDefinitionDocumentReader.java" partName="DefaultBeanDefinitionDocumentReader.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java" title="DefaultBeanDefinitionDocumentReader.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java"/>
+<editorState selectionLength="0" selectionOffset="10689"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanDefinitionHolder.java" partName="BeanDefinitionHolder.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/config/BeanDefinitionHolder.java" title="BeanDefinitionHolder.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/config/BeanDefinitionHolder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/config/BeanDefinitionHolder.java"/>
+<editorState selectionLength="0" selectionOffset="5837"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Car.java" partName="Car.java" path="D:/Files/study/test/spring/src/testioc/Car.java" title="Car.java" tooltip="spring/src/testioc/Car.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testioc/Car.java"/>
+<editorState selectionLength="0" selectionOffset="556"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Wheel.java" partName="Wheel.java" path="D:/Files/study/test/spring/src/testioc/Wheel.java" title="Wheel.java" tooltip="spring/src/testioc/Wheel.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testioc/Wheel.java"/>
+<editorState selectionLength="0" selectionOffset="354"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleIOCTest.java" partName="SimpleIOCTest.java" path="D:/Files/study/test/spring/src/testioc/SimpleIOCTest.java" title="SimpleIOCTest.java" tooltip="spring/src/testioc/SimpleIOCTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testioc/SimpleIOCTest.java"/>
+<editorState selectionLength="0" selectionOffset="467"/>
+</editor>
+<editor id="com.spket.xml.editor.xmlEditor" name="ioc.xml" partName="ioc.xml" path="D:/Files/study/test/spring/src/ioc.xml" title="ioc.xml" tooltip="spring/src/ioc.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/ioc.xml"/>
+<editorState selectionLength="0" selectionOffset="370"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="XmlBeanFactory.class" partName="XmlBeanFactory.class" title="XmlBeanFactory.class" tooltip="org.springframework.beans.factory.xml.XmlBeanFactory" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlBeanFactory.class"/>
+<editorState selectionLength="0" selectionOffset="2924"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanFactory.java" partName="BeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java" title="BeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="11505"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="SimpleJndiBeanFactory.class" partName="SimpleJndiBeanFactory.class" title="SimpleJndiBeanFactory.class" tooltip="org.springframework.jndi.support.SimpleJndiBeanFactory" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.jndi.support(SimpleJndiBeanFactory.class"/>
+<editorState selectionLength="0" selectionOffset="734"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListableBeanFactory.java" partName="ListableBeanFactory.java" path="D:/Files/study/test/springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java" title="ListableBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java"/>
+<editorState selectionLength="0" selectionOffset="2572"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="WebApplicationContext.class" partName="WebApplicationContext.class" title="WebApplicationContext.class" tooltip="org.springframework.web.context.WebApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-web-4.3.9.RELEASE.jar&lt;org.springframework.web.context(WebApplicationContext.class"/>
+<editorState selectionLength="0" selectionOffset="408"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="ClassPathResource.class" partName="ClassPathResource.class" title="ClassPathResource.class" tooltip="org.springframework.core.io.ClassPathResource" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core.io(ClassPathResource.class"/>
+<editorState selectionLength="17" selectionOffset="2081"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResource.java" partName="FileSystemResource.java" path="D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java" title="FileSystemResource.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java"/>
+<editorState selectionLength="0" selectionOffset="1431"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResourceLoader.java" partName="FileSystemResourceLoader.java" path="D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java" title="FileSystemResourceLoader.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+<editorState selectionLength="0" selectionOffset="2485"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.junit.ResultView" partName="JUnit">
+<viewState failuresOnly="false" layout="1" orientation="2" ratio="500" scroll="false" time="true"/>
+</view>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy"/>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="304" org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.priorityField="20" org.eclipse.ui.ide.resourceField="94"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState>
+<isTrackingSelection value="false"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="1" sorter="1">
+<filters>
+<filter element="*.class" isEnabled="false"/>
+<filter element="RemoteSystemsConnections" isEnabled="true"/>
+<filter element="RemoteSystemsTempFiles" isEnabled="true"/>
+<filter element=".*" isEnabled="false"/>
+<filter element="*.class" isEnabled="false"/>
+</filters>
+<expanded>
+<element path="/spring"/>
+<element path="/spring/src"/>
+<element path="/spring/src/com"/>
+<element path="/spring/src/com/importnew"/>
+<element path="/spring/src/testioc"/>
+<element path="/spring/WebContent"/>
+<element path="/spring/WebContent/WEB-INF"/>
+<element path="/spring/WebContent/WEB-INF/lib"/>
+<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources"/>
+<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org"/>
+<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework"/>
+<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core"/>
+<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io"/>
+<element path="/springsource"/>
+<element path="/springsource/org.springframework.beans"/>
+<element path="/springsource/org.springframework.beans/org"/>
+<element path="/springsource/org.springframework.beans/org/springframework"/>
+<element path="/springsource/org.springframework.beans/org/springframework/beans"/>
+<element path="/springsource/org.springframework.beans/org/springframework/beans/factory"/>
+<element path="/springsource/org.springframework.beans/org/springframework/beans/factory/config"/>
+<element path="/springsource/org.springframework.beans/org/springframework/beans/factory/support"/>
+<element path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml"/>
+<element path="/thinkinJava"/>
+<element path="/thinkinJava/lib"/>
+<element path="/thinkinJava/src"/>
+<element path="/thinkinJava/src/base64"/>
+</expanded>
+<selection>
+<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+<org.eclipse.mylyn.tasklist.ui.views.tasklist.sortIndex>&#x0A;<sorter sortDirection="1" sortIndex="0"/>
+<sorter2 sortDirection="1" sortIndex="2"/>
+</org.eclipse.mylyn.tasklist.ui.views.tasklist.sortIndex>
+</viewState>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState columnWidth0="200" columnWidth1="200" columnWidth2="200"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.test.editor.actionSet1"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.uidesigner.engine.actionSet"/>
+<alwaysOnActionSet id="com_sysdeo_eclipse_tomcat_actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.jst.j2ee.J2EEPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<perspective_action id="org.tigris.subversion.subclipse.ui.svnPerspective"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<page content="org.tigris.subversion.subclipse.ui.repository.RepositoriesView" label="LabelNotFound"/>
+<page content="org.tigris.subversion.subclipse.ui.annotations.AnnotateView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.gef.ui.palette_view" ratio="0.26" ratioLeft="260" ratioRight="740" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.65841585" ratioLeft="399" ratioRight="207" relationship="4" relative="org.eclipse.gef.ui.palette_view">&#x0A;<folder activePageID="org.eclipse.ui.views.TaskList" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<page content="org.tigris.subversion.subclipse.ui.history.HistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.15945946" ratioLeft="118" ratioRight="622" relationship="2" relative="org.eclipse.gef.ui.palette_view"/>
+<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="303" ratioRight="303" relationship="4" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.test.editor.actionSet1"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.uidesigner.engine.actionSet"/>
+<alwaysOnActionSet id="com_sysdeo_eclipse_tomcat_actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="de.tobject.findbugs.view.bugtreeview"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="de.tobject.findbugs.FindBugsPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.jdt.junit.ResultView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@37633c">
+<folder activePageID="org.eclipse.ui.views.ResourceNavigator" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="JUnit"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="org.eclipse.ui.internal.ViewStack@37633c">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.14772132" ratioLeft="282" ratioRight="1627" relationship="2" relative="org.eclipse.ui.internal.ViewStack@37633c"/>
+<info folder="true" part="bottom" ratio="0.74876034" ratioLeft="453" ratioRight="152" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1ce5a9" ratio="0.7493333" ratioLeft="562" ratioRight="188" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.49889624" ratioLeft="226" ratioRight="227" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1ce5a9">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3c1156" ratio="0.76666665" ratioLeft="713" ratioRight="217" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="left" ratio="0.49919486" ratioLeft="310" ratioRight="311" relationship="4" relative="org.eclipse.ui.internal.ViewStack@37633c">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+<hiddenWindow height="250" width="1105" x="168" y="273">
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+</hiddenWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.test.editor.actionSet1"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.uidesigner.engine.actionSet"/>
+<alwaysOnActionSet id="com_sysdeo_eclipse_tomcat_actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.jsdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.datatools.sqltools.result.resultView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="org.eclipse.datatools.sqltools.sqleditor.perspectives.EditorPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7487923" ratioLeft="465" ratioRight="156" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.sqltools.result.resultView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.09857328" ratioLeft="76" ratioRight="695" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="679" ratioRight="679" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.test.editor.actionSet1"/>
+<alwaysOnActionSet id="com.hundsun.ares.studio.jres.uidesigner.engine.actionSet"/>
+<alwaysOnActionSet id="com_sysdeo_eclipse_tomcat_actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.servlet.ui.internal.actions.ConvertToWebModuleTypeActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="478" ratioRight="1434" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6998928" ratioLeft="653" ratioRight="280" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.69944215" ratioLeft="1003" ratioRight="431" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlBeanFactory.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultListableBeanFactory.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/springsource/org.springframework.beans/org/springframework/beans/factory/FactoryBean.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/src/com/importnew/BeanFactoryTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/src/com/importnew/HelloWorld.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/src/com/importnew/MainApp.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlBeanDefinitionReader.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(BeanDefinitionDocumentReader.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+</editors>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="12388" y="12"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="13214" y="11"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="16646" y="7"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="17271" y="10"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="14949" y="11"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="11434" y="7"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="13214" y="11"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="14101" y="11"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="7185" y="7"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="12388" y="12"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="11505" y="0"/>
+</item>
+<item historyLabel="DefaultListableBeanFactory.java" index="2">
+<position info="not_deleted" x="5152" y="0"/>
+</item>
+<item historyLabel="FactoryBean.java" index="3">
+<position info="not_deleted" x="2737" y="0"/>
+</item>
+<item historyLabel="BeanFactory.java" index="1">
+<position info="not_deleted" x="11505" y="0"/>
+</item>
+<item historyLabel="BeanFactoryTest.java" index="4">
+<position info="not_deleted" x="531" y="0"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="2941" y="14"/>
+</item>
+<item historyLabel="BeanFactoryTest.java" index="4">
+<position info="not_deleted" x="531" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="5">
+<position info="not_deleted" x="24" y="0"/>
+</item>
+<item historyLabel="MainApp.java" index="6">
+<position info="not_deleted" x="471" y="0"/>
+</item>
+<item historyLabel="BeanFactoryTest.java" index="4">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="2941" y="14"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="3003" y="0"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="3320" y="14"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="11664" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="11587" y="19"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="11685" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="12066" y="19"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="13071" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="14883" y="21"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="15077" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="19916" y="0"/>
+</item>
+<item historyLabel="BeanDefinitionDocumentReader.class" index="8">
+<position info="not_deleted" x="1743" y="23"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="19916" y="0"/>
+</item>
+<item historyLabel="HelloWorld.java" index="5">
+<position info="not_deleted" x="24" y="0"/>
+</item>
+<item historyLabel="MainApp.java" index="6">
+<position info="not_deleted" x="471" y="0"/>
+</item>
+<item historyLabel="BeanFactoryTest.java" index="4">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="FactoryBean.java" index="3">
+<position info="not_deleted" x="2737" y="0"/>
+</item>
+<item historyLabel="MainApp.java" index="6">
+<position info="not_deleted" x="471" y="0"/>
+</item>
+<item historyLabel="BeanFactoryTest.java" index="4">
+<position info="not_deleted" x="530" y="0"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="2941" y="14"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="3003" y="0"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="3466" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="11587" y="19"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="11686" y="0"/>
+</item>
+<item historyLabel="XmlBeanDefinitionReader.class" index="7">
+<position info="not_deleted" x="12066" y="19"/>
+</item>
+<item historyLabel="BeanFactoryTest.java" index="4">
+<position info="not_deleted" x="529" y="0"/>
+</item>
+<item historyLabel="XmlBeanFactory.class" index="0">
+<position info="not_deleted" x="2924" y="0"/>
+</item>
+<item historyLabel="FileSystemResource.java" index="9">
+<position info="not_deleted" x="1431" y="0"/>
+</item>
+<item active="true" historyLabel="FileSystemResourceLoader.java" index="10">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResourceLoader.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java">
+<persistable path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResource.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java">
+<persistable path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="ClassPathResource.class" tooltip="org.springframework.core.io.ClassPathResource">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core.io(ClassPathResource.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="BeanDefinitionDocumentReader.class" tooltip="org.springframework.beans.factory.xml.BeanDefinitionDocumentReader">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(BeanDefinitionDocumentReader.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="WebApplicationContext.class" tooltip="org.springframework.web.context.WebApplicationContext">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-web-4.3.9.RELEASE.jar&lt;org.springframework.web.context(WebApplicationContext.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="ApplicationContext.class" tooltip="org.springframework.context.ApplicationContext">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context(ApplicationContext.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListableBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java">
+<persistable path="/springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="SimpleJndiBeanFactory.class" tooltip="org.springframework.jndi.support.SimpleJndiBeanFactory">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.jndi.support(SimpleJndiBeanFactory.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java">
+<persistable path="/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="AliasRegistry.class" tooltip="org.springframework.core.AliasRegistry">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core(AliasRegistry.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="SimpleAliasRegistry.class" tooltip="org.springframework.core.SimpleAliasRegistry">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core(SimpleAliasRegistry.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="DefaultSingletonBeanRegistry.class" tooltip="org.springframework.beans.factory.support.DefaultSingletonBeanRegistry">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(DefaultSingletonBeanRegistry.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="FactoryBeanRegistrySupport.class" tooltip="org.springframework.beans.factory.support.FactoryBeanRegistrySupport">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(FactoryBeanRegistrySupport.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractBeanFactory.class" tooltip="org.springframework.beans.factory.support.AbstractBeanFactory">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(AbstractBeanFactory.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractAutowireCapableBeanFactory.class" tooltip="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(AbstractAutowireCapableBeanFactory.class"/>
+</file>
+</mruList>
+</workbench>

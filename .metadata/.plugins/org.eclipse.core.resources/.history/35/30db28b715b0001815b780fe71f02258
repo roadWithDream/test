@@ -1,0 +1,6 @@
+package testioc;
+
+public class Wheel {
+	   private String brand;
+	    private String specification ;
+}

@@ -1,0 +1,17 @@
+package com.util.desc;
+
+public interface IEncrypt {
+	/**
+	 * º”√‹
+	 * @param str
+	 * @return
+	 */
+	public String enc(String str);
+	
+	/**
+	 * Ω‚√‹
+	 * @param str
+	 * @return
+	 */
+	public String dec(String str);
+}

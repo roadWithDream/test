@@ -1,0 +1,20 @@
+package testioc;
+
+import java.net.URL;
+
+import org.junit.Test;
+
+public class SimpleIOCTest {
+	@Test
+	public void getBean() throws Exception {
+		System.out.println(Car.class.getClassLoader().getResource("ioc.xml"));
+		String location = SimpleIOC.class.getClassLoader().getResource("ioc.xml").getPath();
+		SimpleIOC bf = new SimpleIOC(location);
+		Wheel wheel = (Wheel) bf.getBean("wheel");
+		wheel.setBrand("sdf");
+		System.out.println(wheel.getBrand());
+		Car car = (Car) bf.getBean("car");
+		car.setHeight("2323");
+		System.out.println(car.getWheel().getBrand());
+		}
+}

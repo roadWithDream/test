@@ -1,0 +1,16 @@
+<classpath>
+  <container id="spring!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="/spring/WebContent/WEB-INF/lib/spring-aop-4.3.9.RELEASE.jar">
+      <source-attachment-path>D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-aop-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="/spring/WebContent/WEB-INF/lib/spring-beans-4.3.9.RELEASE.jar">
+      <source-attachment-path>D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-beans-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE.jar">
+      <source-attachment-path>D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+    <entry id="/spring/WebContent/WEB-INF/lib/spring-context-4.3.9.RELEASE.jar">
+      <source-attachment-path>D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-context-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
