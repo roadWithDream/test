@@ -1,0 +1,14 @@
+package proxy.reflect;
+
+public class TestDemo {
+    public static void main(String[] args) throws Exception {
+        Person per = new Person() ; // 正着操作
+        System.out.println(per.getClass().newInstance().setName("per").getName());   // 反着来
+        
+        Class<?> cls = Class.forName("proxy.reflect.Person") ; 
+        Object obj = cls.newInstance();
+        Person per1 = (Person)obj; 
+        System.out.println(per1.setName("per1").getName());
+    }
+
+}

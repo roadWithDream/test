@@ -1,0 +1,9 @@
+package proxy.helloword;
+
+public class HelloWorldImpl implements HelloWorld{
+
+	public void sayHelloWorld(String s) {
+		// TODO Auto-generated method stub
+		System.out.println(s);
+	}
+}

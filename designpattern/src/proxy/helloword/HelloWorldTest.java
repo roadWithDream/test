@@ -14,6 +14,6 @@ public class HelloWorldTest {
                 helloWorld.getClass().getClassLoader(), 
                 helloWorld.getClass().getInterfaces(), 
                 handler);
-        proxy.sayHelloWorld();
+        proxy.sayHelloWorld("nihao",5);
     }
 }

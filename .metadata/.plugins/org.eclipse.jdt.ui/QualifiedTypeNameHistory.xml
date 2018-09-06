@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.support.DefaultListableBeanFactory"/>
-<fullyQualifiedTypeName name="proxy.commonproxy.IGamePlayer"/>
 <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.Package.Class.Method"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
-<fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
-<fullyQualifiedTypeName name="java.lang.reflect.InvocationHandler"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="holding.Children"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="javax.xml.datatype.DatatypeConstants.Field"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="testaop.MethodInvocation"/>
+<fullyQualifiedTypeName name="java.lang.reflect.InvocationHandler"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
 </qualifiedTypeNameHistroy>

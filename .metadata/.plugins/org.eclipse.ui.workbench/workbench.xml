@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="13" version="2.0">
+<workbench progressCount="39" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="1024" x="374" y="176">
 <fastViewData fastViewLocation="1024">
@@ -251,6 +251,22 @@
 <part id="200"/>
 <part id="201"/>
 <part id="202"/>
+<part id="203"/>
+<part id="204"/>
+<part id="205"/>
+<part id="206"/>
+<part id="207"/>
+<part id="208"/>
+<part id="209"/>
+<part id="210"/>
+<part id="211"/>
+<part id="212"/>
+<part id="213"/>
+<part id="214"/>
+<part id="215"/>
+<part id="216"/>
+<part id="217"/>
+<part id="218"/>
 </presentation>
 </folder>
 </info>
@@ -269,7 +285,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="D:/Files/study/test/thinkinJava/src/com/hundsun/lcpt/algorithm/Main.java" title="Main.java" tooltip="thinkinJava/src/com/hundsun/lcpt/algorithm/Main.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/hundsun/lcpt/algorithm/Main.java"/>
-<editorState selectionLength="0" selectionOffset="333"/>
+<editorState selectionLength="0" selectionOffset="154"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DESEncryptor.java" partName="DESEncryptor.java" path="D:/Files/study/test/thinkinJava/src/com/util/desc/DESEncryptor.java" title="DESEncryptor.java" tooltip="thinkinJava/src/com/util/desc/DESEncryptor.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/com/util/desc/DESEncryptor.java"/>
@@ -277,7 +293,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestString.java" partName="TestString.java" path="D:/Files/study/test/thinkinJava/src/TestString.java" title="TestString.java" tooltip="thinkinJava/src/TestString.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/TestString.java"/>
-<editorState selectionLength="0" selectionOffset="284"/>
+<editorState selectionLength="0" selectionOffset="219"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Apply.java" partName="Apply.java" path="D:/Files/study/test/thinkinJava/src/Apply.java" title="Apply.java" tooltip="thinkinJava/src/Apply.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/thinkinJava/src/Apply.java"/>
@@ -462,10 +478,6 @@
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EncodedResource.java" partName="EncodedResource.java" path="D:/Files/study/test/springsource/org.springframework.core/org/springframework/core/io/support/EncodedResource.java" title="EncodedResource.java" tooltip="springsource/org.springframework.core/org/springframework/core/io/support/EncodedResource.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/springsource/org.springframework.core/org/springframework/core/io/support/EncodedResource.java"/>
 <editorState selectionLength="0" selectionOffset="2720"/>
-</editor>
-<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="Object.class" partName="Object.class" title="Object.class" tooltip="java.lang.Object" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang(Object.class"/>
-<editorState selectionLength="6" selectionOffset="495"/>
 </editor>
 <editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="InputSource.class" partName="InputSource.class" title="InputSource.class" tooltip="org.xml.sax.InputSource" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;org.xml.sax(InputSource.class"/>
@@ -1062,9 +1074,77 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java"/>
 <editorState selectionLength="0" selectionOffset="1431"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResourceLoader.java" partName="FileSystemResourceLoader.java" path="D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java" title="FileSystemResourceLoader.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResourceLoader.java" partName="FileSystemResourceLoader.java" path="D:/Files/study/test/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java" title="FileSystemResourceLoader.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
-<editorState selectionLength="0" selectionOffset="2485"/>
+<editorState selectionLength="0" selectionOffset="2309"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodInvocation.java" partName="MethodInvocation.java" path="D:/Files/study/test/spring/src/testaop/MethodInvocation.java" title="MethodInvocation.java" tooltip="spring/src/testaop/MethodInvocation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/MethodInvocation.java"/>
+<editorState selectionLength="16" selectionOffset="37"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Advice.java" partName="Advice.java" path="D:/Files/study/test/spring/src/testaop/Advice.java" title="Advice.java" tooltip="spring/src/testaop/Advice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/Advice.java"/>
+<editorState selectionLength="6" selectionOffset="84"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeforeAdvice.java" partName="BeforeAdvice.java" path="D:/Files/study/test/spring/src/testaop/BeforeAdvice.java" title="BeforeAdvice.java" tooltip="spring/src/testaop/BeforeAdvice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/BeforeAdvice.java"/>
+<editorState selectionLength="0" selectionOffset="236"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleAOP.java" partName="SimpleAOP.java" path="D:/Files/study/test/spring/src/testaop/SimpleAOP.java" title="SimpleAOP.java" tooltip="spring/src/testaop/SimpleAOP.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/SimpleAOP.java"/>
+<editorState selectionLength="0" selectionOffset="284"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloService.java" partName="HelloService.java" path="D:/Files/study/test/spring/src/testaop/HelloService.java" title="HelloService.java" tooltip="spring/src/testaop/HelloService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/HelloService.java"/>
+<editorState selectionLength="0" selectionOffset="75"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloServiceImpl.java" partName="HelloServiceImpl.java" path="D:/Files/study/test/spring/src/testaop/HelloServiceImpl.java" title="HelloServiceImpl.java" tooltip="spring/src/testaop/HelloServiceImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/HelloServiceImpl.java"/>
+<editorState selectionLength="0" selectionOffset="178"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleAOPTest.java" partName="SimpleAOPTest.java" path="D:/Files/study/test/spring/src/testaop/SimpleAOPTest.java" title="SimpleAOPTest.java" tooltip="spring/src/testaop/SimpleAOPTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/SimpleAOPTest.java"/>
+<editorState selectionLength="0" selectionOffset="406"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodInvocationImpl.java" partName="MethodInvocationImpl.java" path="D:/Files/study/test/spring/src/testaop/MethodInvocationImpl.java" title="MethodInvocationImpl.java" tooltip="spring/src/testaop/MethodInvocationImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/spring/src/testaop/MethodInvocationImpl.java"/>
+<editorState selectionLength="0" selectionOffset="201"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" partName="Main.java" path="D:/Files/study/test/designpattern/src/proxy/A1/Main.java" title="Main.java" tooltip="designpattern/src/proxy/A1/Main.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/A1/Main.java"/>
+<editorState selectionLength="0" selectionOffset="331"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Printable.java" partName="Printable.java" path="D:/Files/study/test/designpattern/src/proxy/A1/Printable.java" title="Printable.java" tooltip="designpattern/src/proxy/A1/Printable.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/A1/Printable.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Printer.java" partName="Printer.java" path="D:/Files/study/test/designpattern/src/proxy/A1/Printer.java" title="Printer.java" tooltip="designpattern/src/proxy/A1/Printer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/A1/Printer.java"/>
+<editorState selectionLength="0" selectionOffset="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrinterProxy.java" partName="PrinterProxy.java" path="D:/Files/study/test/designpattern/src/proxy/A1/PrinterProxy.java" title="PrinterProxy.java" tooltip="designpattern/src/proxy/A1/PrinterProxy.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/A1/PrinterProxy.java"/>
+<editorState selectionLength="0" selectionOffset="483"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorldImpl.java" partName="HelloWorldImpl.java" path="D:/Files/study/test/designpattern/src/proxy/helloword/HelloWorldImpl.java" title="HelloWorldImpl.java" tooltip="designpattern/src/proxy/helloword/HelloWorldImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/helloword/HelloWorldImpl.java"/>
+<editorState selectionLength="0" selectionOffset="194"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorld.java" partName="HelloWorld.java" path="D:/Files/study/test/designpattern/src/proxy/helloword/HelloWorld.java" title="HelloWorld.java" tooltip="designpattern/src/proxy/helloword/HelloWorld.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/helloword/HelloWorld.java"/>
+<editorState selectionLength="0" selectionOffset="88"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorldHandler.java" partName="HelloWorldHandler.java" path="D:/Files/study/test/designpattern/src/proxy/helloword/HelloWorldHandler.java" title="HelloWorldHandler.java" tooltip="designpattern/src/proxy/helloword/HelloWorldHandler.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/helloword/HelloWorldHandler.java"/>
+<editorState selectionLength="17" selectionOffset="151"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorldTest.java" partName="HelloWorldTest.java" path="D:/Files/study/test/designpattern/src/proxy/helloword/HelloWorldTest.java" title="HelloWorldTest.java" tooltip="designpattern/src/proxy/helloword/HelloWorldTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/designpattern/src/proxy/helloword/HelloWorldTest.java"/>
+<editorState selectionLength="0" selectionOffset="338"/>
+</editor>
+<editor id="net.sf.jadclipse.JadclipseClassFileEditor" name="Proxy.class" partName="Proxy.class" title="Proxy.class" tooltip="java.lang.reflect.Proxy" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang.reflect(Proxy.class"/>
+<editorState selectionLength="0" selectionOffset="20597"/>
 </editor>
 </editors>
 <views>
@@ -1116,35 +1196,13 @@
 <filter element="*.class" isEnabled="false"/>
 </filters>
 <expanded>
-<element path="/spring"/>
-<element path="/spring/src"/>
-<element path="/spring/src/com"/>
-<element path="/spring/src/com/importnew"/>
-<element path="/spring/src/testioc"/>
-<element path="/spring/WebContent"/>
-<element path="/spring/WebContent/WEB-INF"/>
-<element path="/spring/WebContent/WEB-INF/lib"/>
-<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources"/>
-<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org"/>
-<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework"/>
-<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core"/>
-<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io"/>
-<element path="/springsource"/>
-<element path="/springsource/org.springframework.beans"/>
-<element path="/springsource/org.springframework.beans/org"/>
-<element path="/springsource/org.springframework.beans/org/springframework"/>
-<element path="/springsource/org.springframework.beans/org/springframework/beans"/>
-<element path="/springsource/org.springframework.beans/org/springframework/beans/factory"/>
-<element path="/springsource/org.springframework.beans/org/springframework/beans/factory/config"/>
-<element path="/springsource/org.springframework.beans/org/springframework/beans/factory/support"/>
-<element path="/springsource/org.springframework.beans/org/springframework/beans/factory/xml"/>
-<element path="/thinkinJava"/>
-<element path="/thinkinJava/lib"/>
-<element path="/thinkinJava/src"/>
-<element path="/thinkinJava/src/base64"/>
+<element path="/designpattern"/>
+<element path="/designpattern/src"/>
+<element path="/designpattern/src/proxy"/>
+<element path="/designpattern/src/proxy/helloword"/>
 </expanded>
 <selection>
-<element path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+<element path="/designpattern/src/proxy/helloword/HelloWorldHandler.java"/>
 </selection>
 </viewState>
 </view>
@@ -1438,62 +1496,46 @@
 <view id="org.eclipse.debug.ui.BreakpointView"/>
 <view id="org.eclipse.debug.ui.ExpressionView"/>
 <fastViewBars/>
-<layout>
-<mainWindow>
-<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7487923" ratioLeft="465" ratioRight="156" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7487923" ratioLeft="465" ratioRight="156" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
 <page content="org.eclipse.datatools.sqltools.result.resultView" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
 <page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 </presentation>
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.09857328" ratioLeft="76" ratioRight="695" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="679" ratioRight="679" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
-<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">
-<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="679" ratioRight="679" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
 <page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
 <page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
@@ -1612,167 +1654,165 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlBeanFactory.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/springsource/org.springframework.beans/org/springframework/beans/factory/support/DefaultListableBeanFactory.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/springsource/org.springframework.beans/org/springframework/beans/factory/FactoryBean.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/src/com/importnew/BeanFactoryTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/src/com/importnew/HelloWorld.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/src/com/importnew/MainApp.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlBeanDefinitionReader.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(BeanDefinitionDocumentReader.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/designpattern/src/proxy/helloword/GamePlayer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/designpattern/src/proxy/helloword/IGamePlayer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/designpattern/src/proxy/helloword/HelloWorld.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/designpattern/src/proxy/helloword/HelloWorldImpl.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/designpattern/src/proxy/helloword/HelloWorldHandler.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang.reflect(InvocationHandler.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang(Object.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/designpattern/src/proxy/helloword/HelloWorldTest.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang.reflect(Proxy.class"/>
 </editors>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="12388" y="12"/>
+<item historyLabel="GamePlayer.java" index="0">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="13214" y="11"/>
+<item historyLabel="IGamePlayer.java" index="1">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="16646" y="7"/>
+<item historyLabel="HelloWorld.java" index="2">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="17271" y="10"/>
+<item historyLabel="GamePlayer.java" index="0">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="14949" y="11"/>
+<item historyLabel="HelloWorldImpl.java" index="3">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="11434" y="7"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="13214" y="11"/>
+<item historyLabel="InvocationHandler.class" index="5">
+<position info="not_deleted" x="645" y="17"/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="14101" y="11"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="7185" y="7"/>
+<item historyLabel="Object.class" index="6">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="12388" y="12"/>
+<item historyLabel="Object.class" index="6">
+<position/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="11505" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="DefaultListableBeanFactory.java" index="2">
-<position info="not_deleted" x="5152" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="501" y="0"/>
 </item>
-<item historyLabel="FactoryBean.java" index="3">
-<position info="not_deleted" x="2737" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="377" y="5"/>
 </item>
-<item historyLabel="BeanFactory.java" index="1">
-<position info="not_deleted" x="11505" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="268" y="0"/>
 </item>
-<item historyLabel="BeanFactoryTest.java" index="4">
-<position info="not_deleted" x="531" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="2941" y="14"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="286" y="0"/>
 </item>
-<item historyLabel="BeanFactoryTest.java" index="4">
-<position info="not_deleted" x="531" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="HelloWorld.java" index="5">
-<position info="not_deleted" x="24" y="0"/>
+<item historyLabel="HelloWorldImpl.java" index="3">
+<position info="not_deleted" x="194" y="0"/>
 </item>
-<item historyLabel="MainApp.java" index="6">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="296" y="0"/>
 </item>
-<item historyLabel="BeanFactoryTest.java" index="4">
-<position info="not_deleted" x="532" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="2941" y="14"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="100" y="0"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="3003" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="9655" y="5"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="3320" y="14"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="23365" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="3" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="100" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="11664" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="23365" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="11587" y="19"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="11685" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="100" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="12066" y="19"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="13071" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="458" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="14883" y="21"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="15077" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="338" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="19916" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="BeanDefinitionDocumentReader.class" index="8">
-<position info="not_deleted" x="1743" y="23"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="338" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="19916" y="0"/>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="88" y="0"/>
 </item>
-<item historyLabel="HelloWorld.java" index="5">
-<position info="not_deleted" x="24" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="926" y="0"/>
 </item>
-<item historyLabel="MainApp.java" index="6">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="338" y="0"/>
 </item>
-<item historyLabel="BeanFactoryTest.java" index="4">
-<position info="not_deleted" x="532" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="23365" y="0"/>
 </item>
-<item historyLabel="FactoryBean.java" index="3">
-<position info="not_deleted" x="2737" y="0"/>
+<item historyLabel="HelloWorldTest.java" index="7">
+<position info="not_deleted" x="338" y="0"/>
 </item>
-<item historyLabel="MainApp.java" index="6">
-<position info="not_deleted" x="471" y="0"/>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="88" y="0"/>
 </item>
-<item historyLabel="BeanFactoryTest.java" index="4">
-<position info="not_deleted" x="530" y="0"/>
+<item historyLabel="HelloWorldImpl.java" index="3">
+<position info="not_deleted" x="194" y="0"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="2941" y="14"/>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="88" y="0"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="3003" y="0"/>
+<item historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="151" y="17"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="3466" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="23365" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="11587" y="19"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="23140" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="11686" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="21397" y="0"/>
 </item>
-<item historyLabel="XmlBeanDefinitionReader.class" index="7">
-<position info="not_deleted" x="12066" y="19"/>
+<item historyLabel="Object.class" index="6">
+<position info="not_deleted" x="13236" y="9"/>
 </item>
-<item historyLabel="BeanFactoryTest.java" index="4">
-<position info="not_deleted" x="529" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="21397" y="0"/>
 </item>
-<item historyLabel="XmlBeanFactory.class" index="0">
-<position info="not_deleted" x="2924" y="0"/>
+<item historyLabel="Proxy.class" index="8">
+<position info="not_deleted" x="20597" y="0"/>
 </item>
-<item historyLabel="FileSystemResource.java" index="9">
-<position info="not_deleted" x="1431" y="0"/>
+<item historyLabel="HelloWorld.java" index="2">
+<position info="not_deleted" x="88" y="0"/>
 </item>
-<item active="true" historyLabel="FileSystemResourceLoader.java" index="10">
-<position info="not_deleted" x="3" y="0"/>
+<item active="true" historyLabel="HelloWorldHandler.java" index="4">
+<position info="not_deleted" x="151" y="17"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -1791,50 +1831,50 @@
 </trimLayout>
 </window>
 <mruList>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResourceLoader.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java">
-<persistable path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResourceLoader.java"/>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="Object.class" tooltip="java.lang.Object">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang(Object.class"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileSystemResource.java" tooltip="spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java">
-<persistable path="/spring/WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE-sources/org/springframework/core/io/FileSystemResource.java"/>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="Proxy.class" tooltip="java.lang.reflect.Proxy">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang.reflect(Proxy.class"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="ClassPathResource.class" tooltip="org.springframework.core.io.ClassPathResource">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core.io(ClassPathResource.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorldTest.java" tooltip="designpattern/src/proxy/helloword/HelloWorldTest.java">
+<persistable path="/designpattern/src/proxy/helloword/HelloWorldTest.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="BeanDefinitionDocumentReader.class" tooltip="org.springframework.beans.factory.xml.BeanDefinitionDocumentReader">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.xml(BeanDefinitionDocumentReader.class"/>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="InvocationHandler.class" tooltip="java.lang.reflect.InvocationHandler">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang.reflect(InvocationHandler.class"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="WebApplicationContext.class" tooltip="org.springframework.web.context.WebApplicationContext">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-web-4.3.9.RELEASE.jar&lt;org.springframework.web.context(WebApplicationContext.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloWorldHandler.java" tooltip="designpattern/src/proxy/helloword/HelloWorldHandler.java">
+<persistable path="/designpattern/src/proxy/helloword/HelloWorldHandler.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="ApplicationContext.class" tooltip="org.springframework.context.ApplicationContext">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.context(ApplicationContext.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IGamePlayer.java" tooltip="designpattern/src/proxy/commonproxy/IGamePlayer.java">
+<persistable path="/designpattern/src/proxy/commonproxy/IGamePlayer.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListableBeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java">
-<persistable path="/springsource/org.springframework.beans/org/springframework/beans/factory/ListableBeanFactory.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GamePlayer.java" tooltip="designpattern/src/proxy/commonproxy/GamePlayer.java">
+<persistable path="/designpattern/src/proxy/commonproxy/GamePlayer.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="SimpleJndiBeanFactory.class" tooltip="org.springframework.jndi.support.SimpleJndiBeanFactory">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=springsource/WebContent\/WEB-INF\/lib\/spring-context-4.3.9.RELEASE.jar&lt;org.springframework.jndi.support(SimpleJndiBeanFactory.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrinterProxy.java" tooltip="designpattern/src/proxy/A1/PrinterProxy.java">
+<persistable path="/designpattern/src/proxy/A1/PrinterProxy.java"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BeanFactory.java" tooltip="springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java">
-<persistable path="/springsource/org.springframework.beans/org/springframework/beans/factory/BeanFactory.java"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Printer.java" tooltip="designpattern/src/proxy/A1/Printer.java">
+<persistable path="/designpattern/src/proxy/A1/Printer.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="AliasRegistry.class" tooltip="org.springframework.core.AliasRegistry">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core(AliasRegistry.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Printable.java" tooltip="designpattern/src/proxy/A1/Printable.java">
+<persistable path="/designpattern/src/proxy/A1/Printable.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="SimpleAliasRegistry.class" tooltip="org.springframework.core.SimpleAliasRegistry">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-core-4.3.9.RELEASE.jar&lt;org.springframework.core(SimpleAliasRegistry.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Main.java" tooltip="designpattern/src/proxy/A1/Main.java">
+<persistable path="/designpattern/src/proxy/A1/Main.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="DefaultSingletonBeanRegistry.class" tooltip="org.springframework.beans.factory.support.DefaultSingletonBeanRegistry">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(DefaultSingletonBeanRegistry.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodInvocationImpl.java" tooltip="spring/src/testaop/MethodInvocationImpl.java">
+<persistable path="/spring/src/testaop/MethodInvocationImpl.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="FactoryBeanRegistrySupport.class" tooltip="org.springframework.beans.factory.support.FactoryBeanRegistrySupport">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(FactoryBeanRegistrySupport.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleAOPTest.java" tooltip="spring/src/testaop/SimpleAOPTest.java">
+<persistable path="/spring/src/testaop/SimpleAOPTest.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractBeanFactory.class" tooltip="org.springframework.beans.factory.support.AbstractBeanFactory">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(AbstractBeanFactory.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloServiceImpl.java" tooltip="spring/src/testaop/HelloServiceImpl.java">
+<persistable path="/spring/src/testaop/HelloServiceImpl.java"/>
 </file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="net.sf.jadclipse.JadclipseClassFileEditor" name="AbstractAutowireCapableBeanFactory.class" tooltip="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=spring/WebContent\/WEB-INF\/lib\/spring-beans-4.3.9.RELEASE.jar&lt;org.springframework.beans.factory.support(AbstractAutowireCapableBeanFactory.class"/>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HelloService.java" tooltip="spring/src/testaop/HelloService.java">
+<persistable path="/spring/src/testaop/HelloService.java"/>
 </file>
 </mruList>
 </workbench>

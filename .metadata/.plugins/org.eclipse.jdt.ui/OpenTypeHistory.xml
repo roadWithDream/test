@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=testweb/src&lt;designpattern.interfaceisolation{AbstractSearcher.java[AbstractSearcher" modifiers="1025" timestamp="1511686427694"/>
-<typeInfo handle="=designpattern/src&lt;proxy.commonproxy{IGamePlayer.java[IGamePlayer" modifiers="513" timestamp="1512722114624"/>
+<typeInfo handle="=spring/WebContent\/WEB-INF\/lib\/spring-aop-4.3.9.RELEASE.jar&lt;org.aopalliance.intercept(MethodInvocation.class[MethodInvocation" modifiers="1537" timestamp="1521949268108"/>
+<typeInfo handle="=spring/D:\/tools\/jdk1.8\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1521960137435"/>
+<typeInfo handle="=spring/D:\/tools\/jdk1.6\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1326859086000"/>
+<typeInfo handle="=spring/src&lt;testaop{Advice.java[Advice" modifiers="513" timestamp="1536116156869"/>
+<typeInfo handle="=spring/src&lt;testaop{HelloService.java[HelloService" modifiers="513" timestamp="1536116559819"/>
 </typeInfoHistroy>
