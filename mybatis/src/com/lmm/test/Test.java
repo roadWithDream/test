@@ -38,7 +38,7 @@ public class Test {
         String statement = "com.lmm.mapping.userMapper.getinsurer";//映射sql的标识字符串
         //执行查询返回一个唯一InsurerInfo对象的sql
         InsurerInfo insurerInfo = session.selectOne(statement,"0023");
-
+        
         System.out.println(insurerInfo.getTaName());
         
         
